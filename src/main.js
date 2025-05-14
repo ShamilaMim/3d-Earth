@@ -1,6 +1,6 @@
 import * as THREE from 'three'
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-import getStarfield from './Star/star';
+import getStarfield from './star';
 
 
 const width = window.innerWidth
