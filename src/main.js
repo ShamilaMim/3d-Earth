@@ -3,8 +3,6 @@ import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import getStarfield from './Star/star';
 
 
-
-
 const width = window.innerWidth
 const height = window.innerHeight
 let fov = 75
